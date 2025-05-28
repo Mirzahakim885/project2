@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: qurilish2-backend
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
